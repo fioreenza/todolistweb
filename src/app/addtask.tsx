@@ -81,7 +81,7 @@ export default function AddTask() {
             <div className='flex-col'>
             <button onKeyUp={(e) => handleKeyUp(e.key)} type='button' className='rounded-3xl bg-[#003B5C] text-[#C9EFFF] font-poppins font-semibold mt-8 p-2 text-[16px] w-full text-center' onClick={closeModal}
             >Save</button></div>
-            </div>
+            </div> 
             </div>
               </div>
               </div>
